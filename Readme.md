@@ -63,7 +63,10 @@ A brief overview of how this repository is organized:
 
 
 ## Tools Used
-Python: The core programming language used for data manipulation.
-Pandas: Used for robust data cleaning, aggregation, and tabular analysis.
-Matplotlib & Seaborn: Utilized for generating high-quality static visualizations (bar charts, heatmaps, box plots) to highlight trends.
-Jupyter Notebook: The interactive environment used to compile the code, visualizations, and markdown commentary into a reproducible workflow.
+--> Python: The core programming language used for data manipulation.
+
+--> Pandas: Used for robust data cleaning, aggregation, and tabular analysis.
+
+--> Matplotlib & Seaborn: Utilized for generating high-quality static visualizations (bar charts, heatmaps, box plots) to highlight trends.
+
+--> Jupyter Notebook: The interactive environment used to compile the code, visualizations, and markdown commentary into a reproducible workflow.
