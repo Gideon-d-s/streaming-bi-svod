@@ -23,10 +23,10 @@ Aggregated critical scores from Rotten Tomatoes.
 
 ## Methodology
 The project follows a standard data analytics workflow to extract actionable insights:
-Data Cleaning & Preprocessing: Handling missing values, standardizing genre tags, formatting release years, and normalizing Rotten Tomatoes scores for accurate cross-platform comparison.
-Exploratory Data Analysis (EDA): Investigating the distribution of content types, age ratings, and historical release trends to establish baseline platform profiles.
-Platform Comparison: Benchmarking Prime Video against its top three competitors to identify "content gaps" and strategic overlaps.
-Strategic Recommendation: Translating data visualizations into a SWOT analysis and actionable business strategies using Porter's Five Forces framework.
+1) Data Cleaning & Preprocessing: Handling missing values, standardizing genre tags, formatting release years, and normalizing Rotten Tomatoes scores for accurate cross-platform comparison.
+2) Exploratory Data Analysis (EDA): Investigating the distribution of content types, age ratings, and historical release trends to establish baseline platform profiles.
+3) Platform Comparison: Benchmarking Prime Video against its top three competitors to identify "content gaps" and strategic overlaps.
+4) Strategic Recommendation: Translating data visualizations into a SWOT analysis and actionable business strategies using Porter's Five Forces framework.
 
 ## Key Findings
 Our analysis revealed distinct platform identities, with a specific focus on Prime Video's unique positioning:
